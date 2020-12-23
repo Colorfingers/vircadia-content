@@ -1,0 +1,37 @@
+{
+    "name": "Randy",
+    "version": "1.0.0",
+    "description": "Generic avatar.",
+    "homepage": "http://www.vircadia.com",
+    "bugs": "",
+    "keywords": [
+        "Male",
+		"Avatar"
+    ],
+    "icon": "img/icon.png",
+    "images": [
+        "img/Randy.jpg"
+    ],
+    "author": {
+        "name": "Anonymous",
+        "email": "",
+        "url": "",
+        "license": "CC0"		
+    },
+    "sublicense": [		
+	],	
+    "contributors": [
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/whatever/testing.git"
+    },
+    "main": "fbx/Randy.fst",
+    "type": "avatar",
+    "meta": {
+    },
+    "dependencies": {       
+    },
+    "engines": {
+    }
+}

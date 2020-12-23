@@ -22,10 +22,6 @@
     "sublicense": [
 	],	
     "contributors": [
-        {
-            "name": "Haptic Monkey",
-            "url": "https://hapticmonkey.com"
-        }
     ],
     "repository": {
         "type": "git",
